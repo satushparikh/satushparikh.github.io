@@ -16,6 +16,7 @@ $indent-var                 : 1.3em;
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$base-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -28,7 +29,7 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
+$global-font-family         : $base-font-family;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
@@ -57,7 +58,7 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : #000;
+$text-color                 : #000;                // Black Text
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
