@@ -30,4 +30,4 @@ Undertook a reading project on high energy astrophysics to understand the phenom
 ## Miscellaneous
 
 1. **T.O.H.F.A.**  
-T.O.H.F.A. (_transl_. Gift), or _T_eacher _O_riented _H_elping and _F_unctioning _A_ssistant was the result of a group project in grade 12 developed with the purpose of helping teachers with their daily book-keeping tasks through an easy-to-use assistant interface. [Read More](/projects/tohfa)
+T.O.H.F.A. (_transl_. Gift), or *T*eacher *O*riented *H*elping and *F*unctioning *A*ssistant was the result of a group project in grade 12 developed with the purpose of helping teachers with their daily book-keeping tasks through an easy-to-use assistant interface. [Read More](/projects/tohfa)
