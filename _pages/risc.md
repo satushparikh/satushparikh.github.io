@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 Course project for EE309: Microprocessors, Spring 2022  
-*with Kalp Vyas, Pulkit Paliwal and Siddhant Bose*   
+*with Kalp Vyas, Pulkit Paliwal and Siddhant Bose*  
+  
+[[code](https://github.com/Aayush2003/EE309-Project)]  
 
 ![Multicycle RTL Netlist](/files/risc_multicycle.png)
 
