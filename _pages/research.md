@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ## Multi-Secret Sharing  
-Ongoing research project with [Prof. Vinod Prabhakaran](https://www.tifr.res.in/~vinodmp/)  
+Ongoing research project with [Prof. Vinod Prabhakaran](https://www.tifr.res.in/~vinodmp/).  
 
 Multi-Secret Sharing is a problem in information-theoretic cryptography, that is similar in setting to the [multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) problem. It involves distributing a set of *shares*, such that each party learns their *secret* using the shares accessible to them, without learning any extra information about the secrets of the other parties.  
 
