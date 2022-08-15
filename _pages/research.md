@@ -14,4 +14,4 @@ Multi-Secret Sharing is a problem in information-theoretic cryptography, that is
 I am currently working on the analysis of 3-party multi-secret sharing schemes under specific scenarios of the problem. I look for optimal schemes, and test the optimality by evaluating the lower bounds on randomness complexity using methods described in [this paper](https://link.springer.com/chapter/10.1007/978-3-662-44381-1_12). We are also working on alternate settings of the original problem.  
 
 ![Multi-Secret Sharing Problem](/files/SecretSharing.jpg)  
-*A general multi-secret sharing setting*
+> *A general multi-secret sharing setting*
