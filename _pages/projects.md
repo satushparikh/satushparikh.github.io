@@ -30,4 +30,4 @@ Undertook a reading project on high energy astrophysics to understand the phenom
 ## Miscellaneous
 
 1. **T.O.H.F.A.**  
-TOHFA (_transl_. Gift), or *T*eacher *O*riented *H*elping and *F*unctioning *A*ssistant was the result of a group project in grade 12 developed with the purpose of helping teachers with their daily book-keeping tasks through an easy-to-use assistant interface. [[code](https://github.com/Aayush2003/T.O.H.F.A)]
+TOHFA ( तोहफ़ा _transl_. Gift), or *T*eacher *O*riented *H*elping and *F*unctioning *A*ssistant was the result of a group project in grade 12 developed with the purpose of helping teachers with their daily book-keeping tasks through an easy-to-use assistant interface. [[code](https://github.com/Aayush2003/T.O.H.F.A)]
