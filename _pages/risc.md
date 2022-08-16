@@ -13,7 +13,7 @@ Course project for EE309: Microprocessors, Spring 2022
   
 [[code](https://github.com/Aayush2003/EE309-Project)]  
 
-![Multicycle RTL Netlist](/files/risc_multicycle.png)
+![Multicycle RTL Netlist](/images/risc_multicycle.png)
 
 IITB-RISC is a 16-bit processor capable of performing basic operations. It has an instruction set architecture (ISA) of 17 instructions such as arithmetic and logical operations, load and store to memory, and branch statements. 
 
