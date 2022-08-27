@@ -25,29 +25,29 @@ I have had the pleasure of being a Teaching Assistant for two first-year undergr
  <tr>
     <td valign = top>
 	<ul>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE621"> EE621: Markov Chains and Queueing Processes</a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE605"> EE605: Error Correcting Codes </a> †
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE341"> EE341: Communication Systems-I </a> †
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE325"> EE325: Probability and Random Processes </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE309"> EE309: Microprocessors </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE302"> EE302: Control Systems </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE301"> EE301: Electromagnetic Waves </a> †
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE238"> EE238: Power Engineering-II </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE229"> EE229: Signal Processing-I </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE224"> EE224: Digital Systems </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE207"> EE207: Electronic Devices and Circuits </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE204"> EE204: Analog Circuits </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE114"> EE114: Power Engineering-I </a>
-	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE113"> EE113: Introduction to Electrical Engineering Practice </a>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE621"> EE621: Markov Chains and Queueing Processes</a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE605"> EE605: Error Correcting Codes </a> †</li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE341"> EE341: Communication Systems-I </a> †</li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE325"> EE325: Probability and Random Processes </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE309"> EE309: Microprocessors </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE302"> EE302: Control Systems </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE301"> EE301: Electromagnetic Waves </a> †</li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE238"> EE238: Power Engineering-II </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE229"> EE229: Signal Processing-I </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE224"> EE224: Digital Systems </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE207"> EE207: Electronic Devices and Circuits </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE204"> EE204: Analog Circuits </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE114"> EE114: Power Engineering-I </a></li>
+	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE113"> EE113: Introduction to Electrical Engineering Practice </a></li>
 	</ul>
 	</td>
     <td valign = top>
 	<ul>
-	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS747: Foundations of Intelligent and Learning Agents </a> †
-	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS228: Logic for Computer Science </a>
-	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS218: Design and Analysis of Algorithms </a> †
-	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS213: Data Structures and Algorithms </a>
-	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS101: Computer Programming and Utilization </a>
+	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS747: Foundations of Intelligent and Learning Agents </a> †</li>
+	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS228: Logic for Computer Science </a></li>
+	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS218: Design and Analysis of Algorithms </a> †</li>
+	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS213: Data Structures and Algorithms </a></li>
+	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS101: Computer Programming and Utilization </a></li>
 	</ul>
 	</td>
  </tr>
