@@ -17,13 +17,13 @@ I have had the pleasure of being a Teaching Assistant for two first-year undergr
 
 ## Courses
 
-<table border="0">
+<table cellspacing="0" cellpadding="0" border="0">
  <tr>
-    <td><b style="font-size:30px">Department of Electrical Engineering</b></td>
-    <td><b style="font-size:30px">Department of Computer Science and Engineering</b></td>
+    <td><b style="font-size:16px">Department of Electrical Engineering</b></td>
+    <td><b style="font-size:16px">Department of Computer Science and Engineering</b></td>
  </tr>
  <tr>
-    <td valign = top>
+    <td valign = "top">
 	<ul>
 	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE621"> EE621: Markov Chains and Queueing Processes</a></li>
 	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE605"> EE605: Error Correcting Codes </a> †</li>
@@ -41,7 +41,7 @@ I have had the pleasure of being a Teaching Assistant for two first-year undergr
 	<li> <a href = "https://www.ee.iitb.ac.in/web/academics/courses/EE113"> EE113: Introduction to Electrical Engineering Practice </a></li>
 	</ul>
 	</td>
-    <td valign = top>
+    <td valign = "top">
 	<ul>
 	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS747: Foundations of Intelligent and Learning Agents </a> †</li>
 	<li> <a href = "https://www.cse.iitb.ac.in/academics/courses.php"> CS228: Logic for Computer Science </a></li>
