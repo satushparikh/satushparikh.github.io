@@ -8,7 +8,7 @@ redirect_from:
   - /others
 ---
 
-## Teaching Assistantship
+## Teaching Assistant-ship
 
 I have had the pleasure of being a Teaching Assistant for two first-year undergraduate courses. My experiences as a teaching assistant have been enriching, to say the least. My work involved holding weekly problem-solving sessions that complemented the material covered in the lectures, as well as  motivated concepts covered later in the course. Due to the online nature of the respective semester, I chose to digitally handwrite my solutions during these sessions, so as to elucidate the key ideas and encourage participative discussions.
 
