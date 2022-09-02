@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](/files/Aayush_2pg.pdf)
+You can download my CV [here](/files/Curriculum_Vitae.pdf).
 
-<iframe src="https://aayush2003.github.io/files/Aayush_2pg.pdf" width="800" height="800">
+<iframe src="https://aayush2003.github.io/files/Curriculum_Vitae.pdf" width="800" height="800">
 </iframe>
