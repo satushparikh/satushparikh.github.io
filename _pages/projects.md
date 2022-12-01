@@ -9,15 +9,19 @@ redirect_from:
 
 ## Course Projects
 
-1. **IIT-B RISC Processor**  
+1. **Polar Codes**  
+_EE 605: Error Correcting Codes, Autumn 2022_  
+Presented a concise talk on polar codes, as a part of the course endterm project. [Read More](/projects/polar)
+
+2. **IIT-B RISC Processor**  
 _EE 309: Microprocessors, Spring 2022_  
 We designed and tested a 16-bit RISC processor in VHDL based on a given instruction set architecture (ISA). [Read More](/projects/risc)
 
-2. **Digital Circuit Design**  
+3. **Digital Circuit Design**  
 _EE 214: Digital Circuits Lab, Autumn 2021_  
 Designed various sequential and combinatorial digital circuits such as multiplexers, ALU and string detector using VHDL, and implemented these designs on a CPLD board. Also implemented a logical representation of an ATM, capable of specifying the number of smaller denominations comprising a given amount. [[code](https://github.com/Aayush2003/EE214)]
 
-3. **Lasso Game**  
+4. **Lasso Game**  
 _CS 101: Computer Programming and Utilization, Autumn 2020_  
 Created an interactive catch-the-object game on C++ with a variety of added features. [[code](https://github.com/Aayush2003/Lasso-Game-CS101)]
 
