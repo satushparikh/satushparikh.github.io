@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "IITB-RISC"
+title: "Polar Codes"
 permalink: /projects/polar/
 author_profile: true
 redirect_from:
