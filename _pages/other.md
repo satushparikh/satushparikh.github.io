@@ -20,34 +20,31 @@ I have had the pleasure of being a Teaching Assistant for two first-year undergr
 ### Department of Electrical Engineering
 -----------------------------------------
 
-* [EE621: Markov Chains and Queueing Processes](https://www.ee.iitb.ac.in/web/academics/courses/EE621) 
-* [EE605: Error Correcting Codes](https://www.ee.iitb.ac.in/web/academics/courses/EE605) †
-* [EE341: Communication Systems-I](https://www.ee.iitb.ac.in/web/academics/courses/EE341) †
-* [EE325: Probability and Random Processes](https://www.ee.iitb.ac.in/web/academics/courses/EE325)
-* [EE309: Microprocessors](https://www.ee.iitb.ac.in/web/academics/courses/EE309)
-* [EE302: Control Systems](https://www.ee.iitb.ac.in/web/academics/courses/EE302)
-* [EE301: Electromagnetic Waves](https://www.ee.iitb.ac.in/web/academics/courses/EE301) †
-* [EE238: Power Engineering-II](https://www.ee.iitb.ac.in/web/academics/courses/EE238)
-* [EE229: Signal Processing-I](https://www.ee.iitb.ac.in/web/academics/courses/EE229)
-* [EE224: Digital Systems](https://www.ee.iitb.ac.in/web/academics/courses/EE224)
-* [EE207: Electronic Devices and Circuits](https://www.ee.iitb.ac.in/web/academics/courses/EE207)
-* [EE204: Analog Circuits](https://www.ee.iitb.ac.in/web/academics/courses/EE204)
-* [EE114: Power Engineering-I](https://www.ee.iitb.ac.in/web/academics/courses/EE114)
-* [EE113: Introduction to Electrical Engineering Practice](https://www.ee.iitb.ac.in/web/academics/courses/EE113)
+* [EE621: Markov Chains and Queueing Processes](https://www.ee.iitb.ac.in/old_web/academics/courses/EE621) 
+* [EE605: Error Correcting Codes](https://www.ee.iitb.ac.in/old_web/academics/courses/EE605) 
+* [EE341: Communication Systems-I](https://www.ee.iitb.ac.in/old_web/academics/courses/EE341) 
+* [EE325: Probability and Random Processes](https://www.ee.iitb.ac.in/old_web/academics/courses/EE325)
+* [EE309: Microprocessors](https://www.ee.iitb.ac.in/old_web/academics/courses/EE309)
+* [EE302: Control Systems](https://www.ee.iitb.ac.in/old_web/academics/courses/EE302)
+* [EE301: Electromagnetic Waves](https://www.ee.iitb.ac.in/old_web/academics/courses/EE301) 
+* [EE238: Power Engineering-II](https://www.ee.iitb.ac.in/old_web/academics/courses/EE238)
+* [EE229: Signal Processing-I](https://www.ee.iitb.ac.in/old_web/academics/courses/EE229)
+* [EE224: Digital Systems](https://www.ee.iitb.ac.in/old_web/academics/courses/EE224)
+* [EE207: Electronic Devices and Circuits](https://www.ee.iitb.ac.in/old_web/academics/courses/EE207)
+* [EE204: Analog Circuits](https://www.ee.iitb.ac.in/old_web/academics/courses/EE204)
+* [EE114: Power Engineering-I](https://www.ee.iitb.ac.in/old_web/academics/courses/EE114)
+* [EE113: Introduction to Electrical Engineering Practice](https://www.ee.iitb.ac.in/old_web/academics/courses/EE113)
 
 
 ### Department of Computer Science and Engineering
 -----------------------------------------
 
-* [CS747: Foundations of Intelligent and Learning Agents](https://www.cse.iitb.ac.in/academics/courses.php) †
+* [CS747: Foundations of Intelligent and Learning Agents](https://www.cse.iitb.ac.in/academics/courses.php) 
 * [CS228: Logic for Computer Science](https://www.cse.iitb.ac.in/academics/courses.php) 
-* [CS218: Design and Analysis of Algorithms](https://www.cse.iitb.ac.in/academics/courses.php) †
+* [CS218: Design and Analysis of Algorithms](https://www.cse.iitb.ac.in/academics/courses.php) 
 * [CS213: Data Structures and Algorithms](https://www.cse.iitb.ac.in/academics/courses.php) 
 * [CS101: Computer Programming and Utilization](https://www.cse.iitb.ac.in/academics/courses.php)   
-  
     
-	  
-*† - to be completed by November, 2022*      
 
       
 
