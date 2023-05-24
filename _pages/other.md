@@ -20,8 +20,13 @@ I have had the pleasure of being a Teaching Assistant for two first-year undergr
 ### Department of Electrical Engineering
 -----------------------------------------
 
+* [EE769: Introduction to Machine Learning](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 769) 
+* [EE736: Introduction to Stochastic Optimization](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 736) 
+* [EE708: Information Theory and Coding](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 708) 
+* [EE706: Communication Networks](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 706) 
 * [EE621: Markov Chains and Queueing Processes](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 621) 
 * [EE605: Error Correcting Codes](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 605) 
+* [EE344: Electronic Design Lab](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 344) 
 * [EE341: Communication Systems-I](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 341) 
 * [EE325: Probability and Random Processes](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 325)
 * [EE309: Microprocessors](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 309)
@@ -39,11 +44,12 @@ I have had the pleasure of being a Teaching Assistant for two first-year undergr
 ### Department of Computer Science and Engineering
 -----------------------------------------
 
-* [CS747: Foundations of Intelligent and Learning Agents](https://www.cse.iitb.ac.in/academics/courses.php) 
-* [CS228: Logic for Computer Science](https://www.cse.iitb.ac.in/academics/courses.php) 
-* [CS218: Design and Analysis of Algorithms](https://www.cse.iitb.ac.in/academics/courses.php) 
-* [CS213: Data Structures and Algorithms](https://www.cse.iitb.ac.in/academics/courses.php) 
-* [CS101: Computer Programming and Utilization](https://www.cse.iitb.ac.in/academics/courses.php)   
+* [CS747: Foundations of Intelligent and Learning Agents](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 747) 
+* [CS228: Logic for Computer Science](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 228) 
+* [CS218: Design and Analysis of Algorithms](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 218) 
+* [CS213: Data Structures and Algorithms](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 213) 
+* [CS207: Discrete Structures](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 207) 
+* [CS101: Computer Programming and Utilization](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 101)   
     
 
       
