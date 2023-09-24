@@ -15,7 +15,7 @@ I have had the pleasure of being a Teaching Assistant for two first-year undergr
 1. MA109: Calculus-I (*Autumn 2021*) [Tutorial Solutions](https://github.com/Aayush2003/Tutorial-solutions/tree/main/MA109-2021)
 2. MA106: Linear Algebra (*Spring 2022*) [Tutorial Solutions](https://github.com/Aayush2003/Tutorial-solutions/tree/main/MA106-2022)
 
-I am also currently (*Autumn 2023*) a Teaching Assistant for the course EE605: Error Correcting Codes. I am involved in the preparation of solutions for examinations and problem sets in the course, as well as holding weekly hour sessions.
+I am also currently (*Autumn 2023*) a Teaching Assistant for the course EE605: Error Correcting Codes. I am involved in the preparation of solutions for examinations and problem sets in the course, as well as holding weekly office hour sessions.
 
 ## Courses
 
