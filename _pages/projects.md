@@ -12,7 +12,7 @@ redirect_from:
 1. **Autoencoders for Denoising and Colorization**  
 _EE 769: Introduction to Machine Learning, Spring 2023_  
 We worked on implementing a CNN-based autoencoder to deal with common corruptions in images. We trained our autoencoder to handle Gaussian noise and burst errors in images and explored the colorization capabilities of these structures on color images.  
-[code](https://github.com/Aayush2003/EE769-Project){: .btn--code}
+[GitHub](https://github.com/Aayush2003/EE769-Project){: .btn--code}
 
 2. **Learning in Constrained MDPs**  
 _EE736: Introduction to Stochastic Optimization, Spring 2023_  
@@ -26,7 +26,7 @@ Presented a concise talk on polar codes, as a part of the course endterm project
 4. **Reinforcement Learning**  
 _CS 747: Foundations of Intelligent and Learning Agents, Autumn 2022_  
 Programming assignments over the duration of the course. Problem statements dealt with implementing regret-minimizing bandit algorithms, formulating and solving real-world problems as Markov Decision Processes (MDP), and developing algorithms to maneuver an autonomous vehicle out of an arena with obstacles.     
-[code](https://github.com/Aayush2003/CS747-Assignments){: .btn--code}  
+[GitHub](https://github.com/Aayush2003/CS747-Assignments){: .btn--code}  
 
 5. **IIT-B RISC Processor**  
 _EE 309: Microprocessors, Spring 2022_  
@@ -55,4 +55,4 @@ Undertook a reading project on high energy astrophysics to understand the phenom
 
 1. **T.O.H.F.A.**  
 TOHFA ( तोहफ़ा _transl_. Gift), or *T*eacher *O*riented *H*elping and *F*unctioning *A*ssistant was the result of a group project in grade 12 developed with the purpose of helping teachers with their daily book-keeping tasks through an easy-to-use assistant interface.    
-[code](https://github.com/Aayush2003/T.O.H.F.A){: .btn--code}  
+[GitHub](https://github.com/Aayush2003/T.O.H.F.A){: .btn--code}  
