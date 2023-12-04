@@ -11,9 +11,9 @@ redirect_from:
 Course project for EE344: Electronic Design Lab, Spring 2023  
 *with Aditya Sriram, Shivam Patel, Anubhav Bhatla, Ankith R, Nithish Reddy*  
   
-[GitHub](https://github.com/Aayush2003/EEG-Data-Acquisition-System){: .btn--code}  
+[GitHub](https://github.com/Aayush2003/EEG-Data-Acquisition-System){: .btn--code}  [YouTube](https://www.youtube.com/watch?v=h8a7uUWLfgk){: .btn--youtube}  
 
-![PCB Top Layer](/images/EDL_PCB.jpg = 600x400)
+![PCB Top Layer](/images/EDL_PCB.jpg)
 
 EEG (Electroencephalography) is a non-invasive method of capturing brain signals. These signals are captured using a 3D-printed headgear equipped with electrodes for EEG data acquisition. The electrodes transmit data to a circuit responsible for processing these signals and forward them to a laptop for displaying.  
 
