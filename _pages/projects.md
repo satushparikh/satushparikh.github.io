@@ -9,19 +9,30 @@ redirect_from:
 
 ## Course Projects
 
-1. **Polar Codes**  
+1. **Autoencoders for Denoising and Colorization**
+_EE 769: Introduction to Machine Learning, Spring 2023_
+We worked on implementing a CNN-based autoencoder to deal with common corruptions in images. We trained our autoencoder to handle Gaussian noise and burst errors in images and explored the colorization capabilities of these structures on color images.  
+[code](https://github.com/Aayush2003/EE769-Project){: .btn--code}
+
+2. **Learning in Constrained MDPs**
+__EE736: Introduction to Stochastic Optimization, Spring 2023_
+Prepared a summarizing report based on a literature review into optimal learning algorithms in a Markov Decision Process (MDP) setting with constraints on various costs.  
+[report](/files/Learning_CMDP.pdf){: .btn--report}
+
+3. **Polar Codes**  
 _EE 605: Error Correcting Codes, Autumn 2022_  
 Presented a concise talk on polar codes, as a part of the course endterm project. [Read More](/projects/polar)    
 
-2. **Reinforcement Learning**  
+4. **Reinforcement Learning**  
 _CS 747: Foundations of Intelligent and Learning Agents, Autumn 2022_  
 Programming assignments over the duration of the course. Problem statements dealt with implementing regret-minimizing bandit algorithms, formulating and solving real-world problems as Markov Decision Processes (MDP), and developing algorithms to maneuver an autonomous vehicle out of an arena with obstacles.     
 [code](https://github.com/Aayush2003/CS747-Assignments){: .btn--code}  
 
-3. **IIT-B RISC Processor**  
+5. **IIT-B RISC Processor**  
 _EE 309: Microprocessors, Spring 2022_  
 We designed and tested a 16-bit RISC processor in VHDL based on a given instruction set architecture (ISA). [Read More](/projects/risc)  
 
+<!--
 4. **Digital Circuit Design**  
 _EE 214: Digital Circuits Lab, Autumn 2021_  
 Designed various sequential and combinatorial digital circuits such as multiplexers, ALU and string detector using VHDL, and implemented these designs on a CPLD board. Also implemented a logical representation of an ATM, capable of specifying the number of smaller denominations comprising a given amount.   
@@ -31,6 +42,7 @@ Designed various sequential and combinatorial digital circuits such as multiplex
 _CS 101: Computer Programming and Utilization, Autumn 2020_    
 Created an interactive catch-the-object game on C++ with a variety of added features.    
 [code](https://github.com/Aayush2003/Lasso-Game-CS101){: .btn--code}  
+-->
 
 ## Reading Projects
 
