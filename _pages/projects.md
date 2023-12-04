@@ -9,13 +9,13 @@ redirect_from:
 
 ## Course Projects
 
-1. **Autoencoders for Denoising and Colorization**
-_EE 769: Introduction to Machine Learning, Spring 2023_
+1. **Autoencoders for Denoising and Colorization**  
+_EE 769: Introduction to Machine Learning, Spring 2023_  
 We worked on implementing a CNN-based autoencoder to deal with common corruptions in images. We trained our autoencoder to handle Gaussian noise and burst errors in images and explored the colorization capabilities of these structures on color images.  
 [code](https://github.com/Aayush2003/EE769-Project){: .btn--code}
 
-2. **Learning in Constrained MDPs**
-__EE736: Introduction to Stochastic Optimization, Spring 2023_
+2. **Learning in Constrained MDPs**  
+_EE736: Introduction to Stochastic Optimization, Spring 2023_  
 Prepared a summarizing report based on a literature review into optimal learning algorithms in a Markov Decision Process (MDP) setting with constraints on various costs.  
 [report](/files/Learning_CMDP.pdf){: .btn--report}
 
