@@ -24,10 +24,10 @@ I have also had the pleasure of being a Teaching Assistant for two first-year un
 
 * [EE769: Introduction to Machine Learning](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 769) 
 * [EE736: Introduction to Stochastic Optimization](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 736)
-* [EE720: An Introduction to Number Theory and Cryptography](https://www.ee.iitb.ac.in/~sarva/courses/EE720/Autumn2023.html)†    
+* [EE720: An Introduction to Number Theory and Cryptography](https://www.ee.iitb.ac.in/~sarva/courses/EE720/Autumn2023.html)    
 * [EE708: Information Theory and Coding](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 708) 
 * [EE706: Communication Networks](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 706)
-* [EE638: Estimation and Identification](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 638)†    
+* [EE638: Estimation and Identification](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 638)    
 * [EE621: Markov Chains and Queueing Processes](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 621) 
 * [EE605: Error Correcting Codes](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 605) 
 * [EE344: Electronic Design Lab](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 344) 
@@ -49,13 +49,12 @@ I have also had the pleasure of being a Teaching Assistant for two first-year un
 -----------------------------------------
 
 * [CS747: Foundations of Intelligent and Learning Agents](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 747)
-* [CS663: Fundamentals of Digital Image Processing](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 663)†  
+* [CS663: Fundamentals of Digital Image Processing](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 663)  
 * [CS228: Logic for Computer Science](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 228) 
 * [CS218: Design and Analysis of Algorithms](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 218) 
 * [CS213: Data Structures and Algorithms](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 213) 
 * [CS207: Discrete Structures](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 207) 
 * [CS101: Computer Programming and Utilization](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS 101)   
     
-† - *To be completed by November 2023*
       
 
