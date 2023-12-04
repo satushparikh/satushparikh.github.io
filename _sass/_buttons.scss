@@ -157,18 +157,18 @@
      display: inline-block;
      margin-bottom: 0em;
      padding: 0.125em 0.125em;
-     color: #ff9404; /*#8b8000*/
+     color: #3c4142; /*#8b8000*/
      text-align: center;
      text-decoration: none !important;
      border: 2px solid;
-     border-color: #ff9404;
+     border-color: #3c4142;
      border-radius: $border-radius;
      font-size: $type-size-7;
      cursor: pointer;
 
      &:hover {
        color: #fff;
-       background-color: #ff9404 !important;
+       background-color: #3c4142 !important;
      }
   }
    
@@ -199,18 +199,39 @@
      display: inline-block;
      margin-bottom: 0em;
      padding: 0.125em 0.125em;
-     color: #800000;
+     color: #ff9404;
      text-align: center;
      text-decoration: none !important;
      border: 2px solid;
-     border-color: #800000;
+     border-color: #ff9404;
      border-radius: $border-radius;
      font-size: $type-size-7;
      cursor: pointer;
 
      &:hover {
        color: #fff;
-       background-color: #800000 !important;
+       background-color: #ff9404 !important;
+     }
+  }
+
+  /* YouTube */
+  
+  &--youtube {
+     display: inline-block;
+     margin-bottom: 0em;
+     padding: 0.125em 0.125em;
+     color: #FF0000;
+     text-align: center;
+     text-decoration: none !important;
+     border: 2px solid;
+     border-color: #FF0000;
+     border-radius: $border-radius;
+     font-size: $type-size-7;
+     cursor: pointer;
+
+     &:hover {
+       color: #fff;
+       background-color: #FF0000 !important;
      }
   } 
 } 
