@@ -13,7 +13,12 @@ Gradient coding is a coding-theoretic framework for distributing a large computa
 
 I am currently working on developing low-replication gradient coding schemes while analyzing the communication and computation requirements of these schemes. So far, we have proposed a scheme and associated protocol capable of handling adversarial workers under full communication with an improvement in computation performance from previous results. I am also exploring the trade-off involved in computation requirements as we begin to introduce communication restrictions.  
 
-## Multi-Secret Sharing  
+<!--
+## Information-Theoretic Persuasion  
+Research project with [Prof. Michael Gastpar](https://people.epfl.ch/michael.gastpar/?lang=en).  
+-->
+
+## Correlated Multi-Secret Sharing  
 Research project with [Prof. Vinod Prabhakaran](https://www.tifr.res.in/~vinodmp/).  
 
 Multi-Secret Sharing is a problem in information-theoretic cryptography, that is similar in setting to the [multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) problem. It involves distributing a set of *shares*, such that each party learns their *secret* using the shares accessible to them, without learning any extra information about the secrets of the other parties.  
