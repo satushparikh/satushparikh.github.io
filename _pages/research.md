@@ -6,6 +6,13 @@ author_profile: true
 
 ---
 
+## Byzantine-Resilient Gradient Coding  
+Undergraduate thesis with [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/) and [Prof. Vinod Prabhakaran](https://www.tifr.res.in/~vinodmp/).  
+
+Gradient coding is a coding-theoretic framework for distributing a large computation, say a gradient computation involved in gradient descent, to multiple workers (some of which may be faulty) and successfully recovering the final computation based on the results obtained by each worker. We study gradient coding in an adversarial scenario, i.e., some workers may be malicious. Our work builds upon the setting introduced in [this paper](https://doi.org/10.1109/ISIT54713.2023.10206794).  
+
+I am currently working on developing low-replication gradient coding schemes while analyzing the communication and computation requirements of these schemes. So far, we have proposed a scheme and associated protocol capable of handling adversarial workers under full communication with an improvement in computation performance from previous results. I am also exploring the trade-off involved in computation requirements as we begin to introduce communication restrictions.  
+
 ## Multi-Secret Sharing  
 Research project with [Prof. Vinod Prabhakaran](https://www.tifr.res.in/~vinodmp/).  
 
