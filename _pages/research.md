@@ -13,10 +13,14 @@ Gradient coding is a coding-theoretic framework for distributing a large computa
 
 I am currently working on developing low-replication gradient coding schemes while analyzing the communication and computation requirements of these schemes. So far, we have proposed a scheme and associated protocol capable of handling adversarial workers under full communication with an improvement in computation performance from previous results. I am also exploring the trade-off involved in computation requirements as we begin to introduce communication restrictions.  
 
-<!--
+
 ## Information-Theoretic Persuasion  
-Research project with [Prof. Michael Gastpar](https://people.epfl.ch/michael.gastpar/?lang=en).  
--->
+Ongoing research project with [Prof. Michael Gastpar](https://people.epfl.ch/michael.gastpar/?lang=en).  
+
+We are studying a project that models persuasion using information theory. Consider an agent that attempts to persuade a worker into taking an action favorable to the former's objective. The agent achieves this "persuasion" by revealing partial information about the worker's objective.  
+
+We are currently working on quantifying this persuasion using the information contained in associated quantities and making remarks on the agent's optimal choice of selective information revelation.  
+
 
 ## Correlated Multi-Secret Sharing  
 Research project with [Prof. Vinod Prabhakaran](https://www.tifr.res.in/~vinodmp/).  
