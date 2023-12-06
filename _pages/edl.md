@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "EDL-EEG"
+title: "EEG Data Acquisition System"
 permalink: /projects/edl/
 author_profile: true
 redirect_from:
