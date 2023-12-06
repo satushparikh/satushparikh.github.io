@@ -7,6 +7,8 @@ redirect_from:
   - /project
 ---
 
+If you cannot find a project you expected to be listed here, please take a look at my [GitHub](https://github.com/Aayush2003?tab=repositories).  
+
 ## Course Projects
 
 1. **Digital Photography using Flash and No-Flash Images**  
