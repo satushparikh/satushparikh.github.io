@@ -19,6 +19,8 @@ I have also had the pleasure of being a Teaching Assistant for two first-year un
 
 ## Courses
 
+_† - to be completed by May 2024_
+
 ### Department of Electrical Engineering
 -----------------------------------------
 
