@@ -17,24 +17,22 @@ I have also had the pleasure of being a Teaching Assistant for two first-year un
 1. MA109: Calculus-I (*Autumn 2021*) [Tutorial Solutions](https://github.com/Aayush2003/Tutorial-solutions/tree/main/MA109-2021)  
 2. MA106: Linear Algebra (*Spring 2022*) [Tutorial Solutions](https://github.com/Aayush2003/Tutorial-solutions/tree/main/MA106-2022)  
 
-## Courses
-
-_† - to be completed by May 2024_
+## Courses  
 
 ### Department of Electrical Engineering
 -----------------------------------------
 
 * [EE769: Introduction to Machine Learning](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 769)  
-* [EE761: Advanced Concentration Inequalities](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 761)†  
+* [EE761: Advanced Concentration Inequalities](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 761)  
 * [EE736: Introduction to Stochastic Optimization](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 736)  
-* [EE734: Advanced Probability and Random Processes for Engineers](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 734)†  
+* [EE734: Advanced Probability and Random Processes for Engineers](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 734)  
 * [EE720: An Introduction to Number Theory and Cryptography](https://www.ee.iitb.ac.in/~sarva/courses/EE720/Autumn2023.html)    
 * [EE708: Information Theory and Coding](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 708) 
 * [EE706: Communication Networks](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 706)
 * [EE638: Estimation and Identification](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 638)    
 * [EE621: Markov Chains and Queueing Processes](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 621) 
 * [EE605: Error Correcting Codes](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 605)  
-* [EE465: Cryptocurrency and Blockchain Technologies](https://www.ee.iitb.ac.in/~sarva/courses/EE465/Spring2024.html)†  
+* [EE465: Cryptocurrency and Blockchain Technologies](https://www.ee.iitb.ac.in/~sarva/courses/EE465/Spring2024.html)    
 * [EE344: Electronic Design Lab](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 344) 
 * [EE341: Communication Systems-I](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 341) 
 * [EE325: Probability and Random Processes](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE 325)
@@ -65,7 +63,7 @@ _† - to be completed by May 2024_
 ### Department of Systems and Control Engineering
 -----------------------------------------
 
-* [SC607: Optimization](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=SC 607)†  
+* [SC607: Optimization](https://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=SC 607)  
     
       
 
