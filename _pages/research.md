@@ -15,11 +15,14 @@ I am currently working on developing low-replication gradient coding schemes whi
 
 
 ## Information-Theoretic Persuasion  
-Ongoing research project with [Prof. Michael Gastpar](https://people.epfl.ch/michael.gastpar/?lang=en).  
+Research project with [Prof. Michael Gastpar](https://people.epfl.ch/michael.gastpar/?lang=en).  
 
 We are studying a project that models persuasion using information theory. Consider an agent that attempts to persuade a worker into taking an action favorable to the former's objective. The agent achieves this "persuasion" by revealing partial information about the worker's objective.  
 
-We are currently working on quantifying this persuasion using the information contained in associated quantities and making remarks on the agent's optimal choice of selective information revelation.  
+We are currently working on quantifying this persuasion using the information contained in associated quantities and making remarks on the agent's optimal choice of selective information revelation. 
+
+Our paper titled *"The Persuasion Bottleneck"* was presented at the International Symposium on Information Theory (ISIT) 2024. 
+
 
 
 ## Correlated Multi-Secret Sharing  
