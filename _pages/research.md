@@ -21,7 +21,7 @@ We are studying a project that models persuasion using information theory. Consi
 
 We are currently working on quantifying this persuasion using the information contained in associated quantities and making remarks on the agent's optimal choice of selective information revelation. 
 
-Our paper titled *"The Persuasion Bottleneck"* was presented at the International Symposium on Information Theory (ISIT) 2024. 
+Our paper titled *"[The Persuasion Bottleneck](https://doi.org/10.1109/ISIT57864.2024.10619395)"* was presented at the International Symposium on Information Theory (ISIT) 2024. 
 
 
 
