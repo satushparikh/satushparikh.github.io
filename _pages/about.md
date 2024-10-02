@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Aayush Rajesh, an incoming Ph.D. student in the [Department of Electrical Engineering, Stanford University](https://ee.stanford.edu/). Prior to this, I completed my Bachelor of Technology (with Honours) in Electrical Engineering with a minor in Computer Science Engineering from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/).  
+I am Aayush Rajesh, a first-year Ph.D. student in the [Department of Electrical Engineering, Stanford University](https://ee.stanford.edu/). Prior to this, I completed my Bachelor of Technology (with Honours) in Electrical Engineering with a minor in Computer Science Engineering from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) in 2024.  
 
 My research interests are in areas along the intersection of electrical engineering and computer science. More specifically, I am fascinated by the fields of Information and Coding Theory, Probability Theory, as well as their applications.  
 
