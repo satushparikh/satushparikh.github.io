@@ -9,11 +9,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
-  - title: "Others"
-    url: /other/    
+  # - title: "Others"
+  #   url: /other/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -21,8 +21,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/

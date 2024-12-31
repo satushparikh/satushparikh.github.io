@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Aayush Rajesh, a first-year Ph.D. student in the [Department of Electrical Engineering, Stanford University](https://ee.stanford.edu/). Prior to this, I completed my Bachelor of Technology (with Honours) in Electrical Engineering with a minor in Computer Science Engineering from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) in 2024.  
 
-My research interests are in areas along the intersection of electrical engineering and computer science. More specifically, I am fascinated by the fields of Information and Coding Theory, Probability Theory, as well as their applications.  
 
-Outside of academics, I enjoy reading books, being an avid bibliophile. I also follow and play cricket, basketball, and chess. Astronomy is a big hobby of mine, due to the irresistible allure of peering out into the vast expanses of the cosmos, to understand where we came from, and where we are headed.  
 
-<a href="https://info.flagcounter.com/SOH8"><img src="https://s11.flagcounter.com/count2/SOH8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+[This webpage is still under construction]
+
+
+
+I am Satush Parikh, a senior at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), pursuing Bachelor of Technology in Electrical Engineering with Honors and a minor in Machine Intelligence and Data Science.  My interests lie in leveraging tools from Probability, Statistics, and Optimization to develop more effective Machine Learning algorithms.
+
+You can find my CV [here](https://drive.google.com/file/d/14hK-tUC6y04xmFWq6_ybzp4vc6BK6Rn1/view?usp=sharing). (Last updated December 2024)
+
+<a href="https://info.flagcounter.com/2FvG"><img src="https://s11.flagcounter.com/count2/2FvG/bg_FFFFFF/txt_000000/border_CC1306/columns_5/maxflags_50/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
