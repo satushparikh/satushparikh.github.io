@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aayush Rajesh"
+title                    : "Satush Parikh"
 title_separator          : "-"
-name                     : &name "Aayush Rajesh"
+name                     : &name "Satush Parikh"
 description              : &description "personal description"
-url                      : https://aayush2003.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://satushparikh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Aayush2003/aayush2003.github.io"
+repository               : "satushparikh/satushparikh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aayush Rajesh"
+  name             : "Satush Parikh"
   avatar           : "bio-amsterdam.jpg"
-  bio              : "First-year PhD student at Stanford Electrical Engineering"
-  location         : "Stanford, CA"
+  bio              : "Senior in EE at IIT Bombay"
+  location         : "Mumbai, India"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=jpcTTOYAAAAJ&hl=en"
-  email            : "aayushrajesh2003@gmail.com"
+  googlescholar    : 
+  email            : "satushparikh@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Aayush2003"
+  github           : "satushparikh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "aayush-rajesh-221564221"
+  linkedin         :  
   orcid            : 
   pinterest        :
   soundcloud       :
