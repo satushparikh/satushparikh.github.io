@@ -7,31 +7,36 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+Welcome to my website! Below you'll find the main pages of my site. For search engines, an [XML version]({{ base_path }}/sitemap.xml) is also available.
 
-<h2>Pages</h2>
+## Main Pages
 {% for post in site.pages %}
+  {% if post.title == "Research" or post.title == "Home" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Publications
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Posts</h2>
+## Teaching
+{% for post in site.teaching %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Talks & Presentations
+{% for post in site.talks %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Portfolio
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Blog Posts
 {% for post in site.posts %}
   {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
 {% endfor %}
